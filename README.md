@@ -10,3 +10,5 @@ Tabel `plugin_item_status_log` dibuat otomatis saat plugin dibuka oleh akun data
 
 Catatan: jika barcode dipindai menggunakan scanner, atur suffix Enter pada perangkat. Hak akses halaman mengikuti autentikasi admin SLiMS. Batasi menu plugin hanya kepada petugas berwenang melalui pengaturan akses admin SLiMS. Uji di lingkungan staging sebelum dipakai pada data produksi.
 
+## Hasil
+<img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/3dd23223-41d4-4485-a7c4-0e5db90a3127" />
